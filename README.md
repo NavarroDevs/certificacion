@@ -35,5 +35,5 @@ Pedro Emilio Navarro Casanova
 rut: 25.963.657-4
 
 *repositorio en git hub:
-
+https://github.com/pedrinchixx/certificacion.git
 
