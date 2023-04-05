@@ -1,7 +1,7 @@
 # certificacion
 
 README
-•	Descripción de su proyecto
+•	Descripción del proyecto
  
 * El proyecto es un blog de noticias sobre libros, donde las personas recomiendan libros a través de sus publicaciones, si el usuario no se encuentra registrado no podrá agregar comentarios, solo ver los últimos libros publicados y sus distintas secciones como: libros infantiles, libros de arte y todos aquellas categorías que se quieran desplegar, una vez registrado el usuario podra subir imágenes de libros, una breve descripción y la imagen y titulo correspondiente al libro, de esto cualquier usuario registrado podrá comentar o dar noticias sobre las publicaciones de cualquier libro y categoría. 
 *El proyecto para ser ejecutado en forma local, debe crear la base de datos blog_libros, anexarse un archivo con los datos de las tablas para ser ejecutadas en pg admin y crear la base de datos para su uso, respaldo de la base de datos también se anexa.
